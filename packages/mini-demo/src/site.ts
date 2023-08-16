@@ -82,11 +82,11 @@ const siteMap = {
         name: '折叠面板',
         page: '/pages/collapse/index',
       },
-      // {
-      //   key: 'Message',
-      //   name: '消息',
-      //   page: '/pages/message/index',
-      // },
+      {
+        key: 'Cascader',
+        name: '级联选择',
+        page: '/pages/cascader/index',
+      },
     ],
   },
   // navigation: {

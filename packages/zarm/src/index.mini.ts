@@ -1,5 +1,6 @@
 export { default as Button } from './button/index.mini';
 export type { ButtonProps } from './button/index.mini';
+export { default as Cascader } from './cascader/index.mini';
 export { default as Collapse } from './collapse/index.mini';
 export type { CollapseCssVars, CollapseItemProps, CollapseProps } from './collapse/index.mini';
 export { default as List } from './list/index.mini';
